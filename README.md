@@ -1,6 +1,5 @@
 <!-- trigger build -->
 
-
 # n8n + FFmpeg Docker Image
 
 This repository contains a custom Docker image for [n8n](https://n8n.io/) with **FFmpeg** pre-installed.
